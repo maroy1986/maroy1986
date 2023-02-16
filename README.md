@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a senior software developer and Architect.
+
 <!--
 **maroy1986/maroy1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
