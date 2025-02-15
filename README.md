@@ -4,7 +4,7 @@ I'm a senior software developer and Architect.
 
 I'm mostly focused on Microsoft .Net, .Net MAUI Blazor (Android and iOS) and Blazor. Also have professional experience with Angular 2+, some React, some React-Native, some Vue and more. 
 
-I also have extensive experience regarding DevOps rannging from managing CI/CD pipelines to managing servers (Virtualization, Containerization and more).
+I also have extensive experience regarding DevOps going from managing CI/CD pipelines to managing servers (Virtualization, Containerization and more).
 
 I enjoy learning new things and always trying to push the limits.
 
