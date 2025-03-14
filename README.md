@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a senior software developer and Architect. 
+I'm a senior software developer and Architect with 15+ years of experience in software development.
 
 I'm mostly focused on Microsoft .Net, .Net MAUI Blazor (Android and iOS) and Blazor. Also have professional experience with Angular 2+, some React, some React-Native, some Vue and more. 
 
