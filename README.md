@@ -32,8 +32,8 @@ A Flutter mobile app that helps Quebec drivers find the best gas prices near the
 - 🌐 Bilingual (French / English)
 - 📱 Available on Google Play & the App Store
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Available-34A853?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=ca.catank.app)
-[![App Store](https://img.shields.io/badge/App_Store-Available-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/app/ça-tank/id6742888132)
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="50">](https://play.google.com/store/apps/details?id=ca.catank.app)
+[<img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="50">](https://apps.apple.com/app/ça-tank/id6742888132)
 [![Website](https://img.shields.io/badge/Website-catank.ca-informational)](https://catank.ca)
 
 ---
