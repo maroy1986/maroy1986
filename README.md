@@ -42,6 +42,7 @@ A Flutter mobile app that helps Quebec drivers find the best gas prices near the
 
 - 🌐 [marcandreroy.ca](https://marcandreroy.ca)
 - 💼 [LinkedIn](https://linkedin.com/in/marcandreroyca)
+- ☕ [Buy me a coffee!](https://buymeacoffee.com/marcandreroy)
 
 ---
 
